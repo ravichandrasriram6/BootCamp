@@ -1,1 +1,7 @@
 this is the sample tetx and this file is to tryout the git
+
+
+
+
+
+commiting the changes
