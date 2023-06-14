@@ -3,5 +3,5 @@ this is the sample tetx and this file is to tryout the git
 
 
 
-
+commitying change in github
 commiting the changes
